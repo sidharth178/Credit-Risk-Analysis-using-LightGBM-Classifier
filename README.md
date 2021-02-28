@@ -1,5 +1,4 @@
-# Credit-Risk-Analysis-using-LightGBM-Classifier
-
+# Credit-Risk-Analysis
 ### Context : 
    Banks need to protect their interest before it can take risk on you and issue credit card to you. Banks use their previous credit card holders records for understanding the patterns of the card holders. It is a lot more complex process to predict whether a person who they do not know at personal level, will be a defaulter or not. Banks, along with the data from their own records, also use CIBIL data. Based on all this data, banks want to develop a pattern that will tell them who are likely to be a defaulter and who are not.
 ### Objective :
